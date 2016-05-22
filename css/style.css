@@ -1,0 +1,33 @@
+body {
+}
+
+#top-row {
+  margin-top: 30px;
+}
+
+.logo-col {
+  text-align: right;
+}
+
+#tagline-container {
+  text-align: left;
+  display: table;
+  table-layout: fixed;
+  height: 256px;
+  width: 256px;
+  font-size: 32px;
+}
+
+#tagline {
+  display:table-cell;
+  vertical-align:middle;
+  text-align: center;
+}
+
+.olive {
+  color: #829924;
+}
+
+.maroon {
+  color: #a6005e;
+}

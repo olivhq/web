@@ -1,0 +1,21 @@
+{
+  "name": "olivlabs",
+  "authors": [
+    "Thameera Senanayaka <thameera@olivlabs.com>"
+  ],
+  "description": "olivlabs.com",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://olivlabs.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
