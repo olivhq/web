@@ -1,8 +1,9 @@
 body {
+  font-family: Helvetica, sans-serif;
 }
 
 #top-row {
-  margin-top: 30px;
+  margin: 30px;
 }
 
 .logo-col {
@@ -30,4 +31,18 @@ body {
 
 .maroon {
   color: #a6005e;
+}
+
+.hcenter {
+  text-align: center;
+}
+
+a:hover {
+  text-decoration: none;
+  opacitiy: 0.7;
+}
+
+#contact-row {
+  font-size: 16px;
+  line-height: 1.6;
 }
